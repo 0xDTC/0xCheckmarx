@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Set API URL
